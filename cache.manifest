@@ -6,9 +6,7 @@ alert.mjs
 cache.html
 config.mjs
 index.html
-gta.html
 linux.html
-rdr.html
 lapse.mjs
 payload.bin
 psfree.mjs
@@ -24,15 +22,6 @@ module\offset.mjs
 module\rw.mjs
 module\utils.mjs
 module\view.mjs
-loader\gta\ArabicGuy-1.0-1.27-rfoodxmodz.html
-loader\gta\ArabicGuy-1.0-1.32-rfoodxmodz.html
-loader\gta\ArabicGuy-1.0-1.33-rfoodxmodz.html
-loader\gta\BeefQueefMod-1.33.html
-loader\gta\BeefQueefMod-1.34.html
-loader\gta\BeefQueefMod-1.38.html
-loader\gta\WildeModz-1.32.html
-loader\gta\WildeModz-1.33.html
-loader\gta\WildeModz-1.38.html
 loader\linux\LinuxLoader-900-2gb.html
 loader\linux\LinuxLoader-900-4gb.html
 loader\linux\LinuxLoader-900.html
